@@ -10,7 +10,7 @@ Versions c++14 and below are allowed for this project
 
 #Installing
 
-Take the project from our github : https://github.com/tomersult/flighSimolator
+Take the project from the  "Interpreter" file
 Install flightgear on your computer
 Add the genricsmall.xml file to your protocol folder in the folder of the flightgear.
 Open terminal in the folder that you saved the project and write : g++ -std=c++14 *.cpp -Wall -Wextra -Wshadow -Wnon-virtual-dtor -pedantic -o FGinterpreter.out -pthread
