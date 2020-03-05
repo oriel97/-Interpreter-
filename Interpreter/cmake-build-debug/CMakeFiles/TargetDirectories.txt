@@ -1,0 +1,3 @@
+/home/oriel/CLionProjects/tomerqqq/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/oriel/CLionProjects/tomerqqq/cmake-build-debug/CMakeFiles/filghtSimolator.dir
+/home/oriel/CLionProjects/tomerqqq/cmake-build-debug/CMakeFiles/edit_cache.dir

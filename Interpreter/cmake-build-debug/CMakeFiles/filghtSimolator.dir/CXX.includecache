@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/oriel/CLionProjects/tomerqqq/Lexer.cpp
+Lexer.h
+/home/oriel/CLionProjects/tomerqqq/Lexer.h
+
+/home/oriel/CLionProjects/tomerqqq/Lexer.h
+vector
+-
+list
+-
+iostream
+-
+fstream
+-
+algorithm
+-
+
